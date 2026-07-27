@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Savora — AI Hub & Workspace",
+  "short_name": "Savora",
+  "description": "Satu hub untuk AI Assistant, Workspace, Explore, News, dan Alerts.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0B0B10",
+  "theme_color": "#7C3AED",
+  "orientation": "portrait",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
